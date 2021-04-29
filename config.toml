@@ -1,0 +1,4 @@
+baseURL = "https://andrewlogan.dev"
+languageCode = "en-us"
+title = "Andrew Logan"
+theme = "myPortfolio"
