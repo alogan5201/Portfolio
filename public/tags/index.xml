@@ -5,6 +5,88 @@
     <link>https://andrewlogan.dev/tags/</link>
     <description>Recent content in Tags on Andrew Logan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://andrewlogan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Oct 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://andrewlogan.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>sample post</title>
+      <link>https://andrewlogan.dev/tags/sample-post/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/sample-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://andrewlogan.dev/tags/code/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highlighting</title>
+      <link>https://andrewlogan.dev/tags/highlighting/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>link post</title>
+      <link>https://andrewlogan.dev/tags/link-post/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/link-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>video</title>
+      <link>https://andrewlogan.dev/tags/video/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>readability</title>
+      <link>https://andrewlogan.dev/tags/readability/</link>
+      <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/readability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>https://andrewlogan.dev/tags/images/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://andrewlogan.dev/tags/test/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro</title>
+      <link>https://andrewlogan.dev/tags/intro/</link>
+      <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrewlogan.dev/tags/intro/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

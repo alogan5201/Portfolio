@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://andrewlogan.dev/about/</loc>
+  </url><url>
     <loc>https://andrewlogan.dev/</loc>
     <lastmod>2021-04-29T18:28:38-04:00</lastmod>
   </url><url>
@@ -11,8 +13,62 @@
     <loc>https://andrewlogan.dev/posts/</loc>
     <lastmod>2021-04-29T18:28:38-04:00</lastmod>
   </url><url>
-    <loc>https://andrewlogan.dev/categories/</loc>
+    <loc>https://andrewlogan.dev/posts/background-image/</loc>
+    <lastmod>2013-10-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/sample-post/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://andrewlogan.dev/tags/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/code/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/highlighting/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/code-highlighting-post/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/link-post/</loc>
+    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/sample-link-post/</loc>
+    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/video-post/</loc>
+    <lastmod>2013-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/video/</loc>
+    <lastmod>2013-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/readability-feature-post/</loc>
+    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/readability/</loc>
+    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/sample-post-images/</loc>
+    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/images/</loc>
+    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/test/</loc>
+    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/tags/intro/</loc>
+    <lastmod>2012-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/readability-post/</loc>
+    <lastmod>2012-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/posts/sample-post/</loc>
+    <lastmod>2011-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://andrewlogan.dev/categories/</loc>
+  </url><url>
+    <loc>https://andrewlogan.dev/theme-setup/</loc>
   </url>
 </urlset>
